@@ -1,0 +1,7 @@
+#Exclude Python virtual environments
+.venv/
+venv/
+ENV/
+
+# Exclude Jetbrain/PyCharm project settings
+.idea/
